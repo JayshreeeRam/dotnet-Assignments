@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StringManipulation": {
+      "commandName": "Project",
+      "commandLineArgs": "\"MANISH,AURIONPRO,MUMBAI\"\r\n"
+    }
+  }
+}
