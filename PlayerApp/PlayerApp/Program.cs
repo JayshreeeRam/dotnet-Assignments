@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Player player1 = new Player(101, "Manish", 22);
-            Player player2 = new Player(102, "Om");
+            Player player2 = new Player(102, "OM");
 
             Player result = player2.WhoIsElder(player1);
             Console.WriteLine("\nDetails of older player: ");
