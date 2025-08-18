@@ -1,0 +1,1078 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250818124319_13th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250818124319_13th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\irestaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\ideliverypartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\ideliverypartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\loginresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\loginresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\models\\deliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:models\\deliverypartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\controllers\\deliverypartnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:controllers\\deliverypartnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\ideliverypartnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\ideliverypartnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\deliverypartnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\deliverypartnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\deliverypartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\deliverypartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:repositories\\restaurantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\irestaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250816123907_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250816123907_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250816130349_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250816130349_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250816125836_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250816125836_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250817053946_sixth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250817053946_sixth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250817051045_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250817051045_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250817080822_eighth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250817080822_eighth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250817075645_seventh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250817075645_seventh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250817131337_12th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250817131337_12th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250817125603_11th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250817125603_11th.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250817123515_tenth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250817123515_tenth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|d:\\swabhav\\assignment\\foodorderingapp\\migrations\\20250817115423_ningth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977DCAC-29CD-43F2-AE1F-FF2AEA3DDFFB}|FoodOrderingApp.csproj|solutionrelative:migrations\\20250817115423_ningth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250818124319_13th.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250818124319_13th.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250818124319_13th.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250818124319_13th.cs",
+              "RelativeToolTip": "Migrations\\20250818124319_13th.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:43:20.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:50:28.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRestaurantRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IRestaurantRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRestaurantRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IRestaurantRepository.cs",
+              "RelativeToolTip": "Repositories\\IRestaurantRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:59:12.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IReviewRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IReviewRepository.cs",
+              "RelativeToolTip": "Repositories\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:09:54.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:27:09.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:28:11.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderItemRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IOrderItemRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:53:06.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IMenuRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IMenuRepository.cs",
+              "RelativeToolTip": "Repositories\\IMenuRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:22:35.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDiscountRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IDiscountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IDiscountRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IDiscountRepository.cs",
+              "RelativeToolTip": "Repositories\\IDiscountRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:06:55.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDeliveryPartnerRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IDeliveryPartnerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IDeliveryPartnerRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\IDeliveryPartnerRepository.cs",
+              "RelativeToolTip": "Repositories\\IDeliveryPartnerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:35:22.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\UserRole.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\UserRole.cs",
+              "RelativeToolTip": "Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:24:34.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:25:12.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:09:30.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Models\\Restaurant.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Models\\Restaurant.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:51:46.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:46:44.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA2wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:45:41.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Models\\Menu.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\Menu.cs",
+              "RelativeToolTip": "Models\\Menu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:56:26.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:26:47.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginResponseViewModel.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\LoginResponseViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginResponseViewModel.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\LoginResponseViewModel.cs",
+              "RelativeToolTip": "Models\\LoginResponseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:26:18.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\Discount.cs",
+              "RelativeDocumentMoniker": "Models\\Discount.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\Discount.cs",
+              "RelativeToolTip": "Models\\Discount.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:06:23.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeliveryPartner.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\DeliveryPartner.cs",
+              "RelativeDocumentMoniker": "Models\\DeliveryPartner.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Models\\DeliveryPartner.cs",
+              "RelativeToolTip": "Models\\DeliveryPartner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T14:13:23.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwHwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:36:18.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DiscountController.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\DiscountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiscountController.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\DiscountController.cs",
+              "RelativeToolTip": "Controllers\\DiscountController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:10:15.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IReviewService.cs",
+              "RelativeDocumentMoniker": "Services\\IReviewService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IReviewService.cs",
+              "RelativeToolTip": "Services\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:11:07.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Services\\ReviewService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\ReviewService.cs",
+              "RelativeToolTip": "Services\\ReviewService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:11:38.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:12:07.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250817131337_12th.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817131337_12th.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250817131337_12th.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817131337_12th.cs",
+              "RelativeToolTip": "Migrations\\20250817131337_12th.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:13:38.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ReviewRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:10:11.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Controllers\\MenuController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:34:21.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwIMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:56:04.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantController.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwCgAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:09:05.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:25:40.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MenuRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\MenuRepository.cs",
+              "RelativeToolTip": "Repositories\\MenuRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:24:34.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DeliveryPartnerController.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\DeliveryPartnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeliveryPartnerController.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\DeliveryPartnerController.cs",
+              "RelativeToolTip": "Controllers\\DeliveryPartnerController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwEcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:38:25.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250817125603_11th.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817125603_11th.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250817125603_11th.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817125603_11th.cs",
+              "RelativeToolTip": "Migrations\\20250817125603_11th.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T12:56:03.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:50:48.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:54:43.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:54:15.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderItemRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\OrderItemRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderItemRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:52:33.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T12:31:39.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250817123515_tenth.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817123515_tenth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250817123515_tenth.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817123515_tenth.cs",
+              "RelativeToolTip": "Migrations\\20250817123515_tenth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T12:35:15.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "Services\\MenuService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\MenuService.cs",
+              "RelativeToolTip": "Services\\MenuService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA8wCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:32:15.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IDeliveryPartnerService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IDeliveryPartnerService.cs",
+              "RelativeDocumentMoniker": "Services\\IDeliveryPartnerService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IDeliveryPartnerService.cs",
+              "RelativeToolTip": "Services\\IDeliveryPartnerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:36:48.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DeliveryPartnerService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\DeliveryPartnerService.cs",
+              "RelativeDocumentMoniker": "Services\\DeliveryPartnerService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\DeliveryPartnerService.cs",
+              "RelativeToolTip": "Services\\DeliveryPartnerService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:37:10.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DeliveryPartnerRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\DeliveryPartnerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DeliveryPartnerRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\DeliveryPartnerRepository.cs",
+              "RelativeToolTip": "Repositories\\DeliveryPartnerRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAzwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:35:43.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250817115423_ningth.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817115423_ningth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250817115423_ningth.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817115423_ningth.cs",
+              "RelativeToolTip": "Migrations\\20250817115423_ningth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T11:54:24.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250817080822_eighth.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817080822_eighth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250817080822_eighth.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817080822_eighth.cs",
+              "RelativeToolTip": "Migrations\\20250817080822_eighth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:08:23.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250817075645_seventh.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817075645_seventh.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250817075645_seventh.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817075645_seventh.cs",
+              "RelativeToolTip": "Migrations\\20250817075645_seventh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:56:46.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:27:34.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250817053946_sixth.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817053946_sixth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250817053946_sixth.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817053946_sixth.cs",
+              "RelativeToolTip": "Migrations\\20250817053946_sixth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:39:46.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:34:25.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:30:50.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DiscountRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\DiscountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DiscountRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\DiscountRepository.cs",
+              "RelativeToolTip": "Repositories\\DiscountRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvwsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:07:21.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IDiscountService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IDiscountService.cs",
+              "RelativeDocumentMoniker": "Services\\IDiscountService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IDiscountService.cs",
+              "RelativeToolTip": "Services\\IDiscountService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:09:10.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "Services\\DiscountService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\DiscountService.cs",
+              "RelativeToolTip": "Services\\DiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:09:37.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250817051045_fifth.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817051045_fifth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250817051045_fifth.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250817051045_fifth.cs",
+              "RelativeToolTip": "Migrations\\20250817051045_fifth.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T05:10:45.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "Services\\RestaurantService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\RestaurantService.cs",
+              "RelativeToolTip": "Services\\RestaurantService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:06:45.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RestaurantRepository.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\RestaurantRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RestaurantRepository.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Repositories\\RestaurantRepository.cs",
+              "RelativeToolTip": "Repositories\\RestaurantRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:00:22.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IRestaurantService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IRestaurantService.cs",
+              "RelativeDocumentMoniker": "Services\\IRestaurantService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IRestaurantService.cs",
+              "RelativeToolTip": "Services\\IRestaurantService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:05:42.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IMenuService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IMenuService.cs",
+              "RelativeDocumentMoniker": "Services\\IMenuService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IMenuService.cs",
+              "RelativeToolTip": "Services\\IMenuService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:31:34.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:22:13.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250816130349_fourth.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250816130349_fourth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250816130349_fourth.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250816130349_fourth.cs",
+              "RelativeToolTip": "Migrations\\20250816130349_fourth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:03:49.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250816125836_third.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250816125836_third.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250816125836_third.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250816125836_third.cs",
+              "RelativeToolTip": "Migrations\\20250816125836_third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:58:37.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250816123907_second.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250816123907_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250816123907_second.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Migrations\\20250816123907_second.cs",
+              "RelativeToolTip": "Migrations\\20250816123907_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:39:08.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T12:33:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "D:\\Swabhav\\Assignment\\FoodOrderingApp\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T12:30:20.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
