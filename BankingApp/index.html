@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Banking App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Banking App</h1>
+
+    <!-- Account Creation -->
+    <section>
+      <h2>Create Account</h2>
+      <input type="text" id="personName" placeholder="Enter Name">
+      <input type="number" id="initialDeposit" placeholder="Initial Deposit">
+      <button onclick="createAccount()">Create Account</button>
+    </section>
+
+    <!-- Operations -->
+    <section>
+      <h2>Transactions</h2>
+      <select id="selectAccount"></select>
+      <input type="number" id="amount" placeholder="Enter Amount">
+      <button onclick="deposit()">Deposit</button>
+      <button onclick="withdraw()">Withdraw</button>
+    </section>
+
+    <!-- Transfer -->
+    <section>
+      <h2>Transfer</h2>
+      <select id="fromAccount"></select>
+      <select id="toAccount"></select>
+      <input type="number" id="transferAmount" placeholder="Enter Amount">
+      <button onclick="transfer()">Transfer</button>
+    </section>
+
+    <!-- Accounts Info -->
+    <section>
+      <h2>Accounts</h2>
+      <div id="accountsList"></div>
+    </section>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
